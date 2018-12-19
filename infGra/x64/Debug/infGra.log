@@ -1,0 +1,5 @@
+﻿  funkcjePierwsze.cpp
+c:\users\kamil\source\repos\infgra\infgra\funkcjepierwsze.cpp(150): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\kamil\source\repos\infgra\infgra\funkcjepierwsze.cpp(755): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kamil\source\repos\infgra\infgra\funkcjepierwsze.cpp(816): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  infGra.vcxproj -> C:\Users\kamil\source\repos\infGra\x64\Debug\infGra.exe
